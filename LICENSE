@@ -3,6 +3,7 @@ The authors of DCut are:
   Ahmed Rezine, Linköping University
 
 DCut is based on ReluVal (https://github.com/tcwangshiqi-columbia/ReluVal).
+DCut is under the BSD license except for the reused parts of ReluVal, which are licensed as below.
 
 The main contributors and authors of ReluVal are:
 
